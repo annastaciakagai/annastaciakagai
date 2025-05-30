@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer, currently majoring in web development. <br>I'm learning data science and Machine Learning. <br>Currently i'm learning MERN full stack development, working on<br>an AI-enabled chatbot for a LMS. 
+I'm a software engineer, currently majoring in web development. <br>I'm learning data science and Machine Learning. <br>Currently i'm learning MERN full stack development. 
 
 
 ## 🌐 Socials:
